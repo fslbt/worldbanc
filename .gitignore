@@ -1,0 +1,9 @@
+# Private project data
+/private/
+
+# Temporary files
+temp
+
+# OS files
+.DS_Store
+Thumbs.db
